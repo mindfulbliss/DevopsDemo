@@ -5,7 +5,7 @@
 # cross check CI is working or not
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
